@@ -2,7 +2,7 @@ package ex_26072024;
 
 import java.util.Scanner;
 
-public class ab072 {
+public class Lab077 {
     public static void main(String[] args) {
 
         // Take user input and check if number id even or odd.
